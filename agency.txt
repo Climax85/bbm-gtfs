@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang,agency_email
+BBM,BuergerBus-Malente e.V.,http://buergerbus-malente.de,Europe/Berlin,+49 4523 988547,DE,buergerbus.malente@gmail.com

@@ -1,0 +1,10 @@
+﻿route_id,service_id,trip_id,block_id,shape_id
+1,WD,S1WT,1,sued
+1,WE,S1WE,1,sued
+1,WD,S2WT,1,sued
+1,WE,S2WE,1,sued
+1,WD,S3WT,1,sued
+1,WD,S4WT,1,sued
+2,WD,N1WT,1,nord
+2,WE,N1WE,1,nord
+2,WD,N2WT,1,nord
