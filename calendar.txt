@@ -1,3 +1,5 @@
 ﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 WD,1,1,1,1,1,0,0,20181101,20191231
 WE,0,0,0,0,0,1,0,20181101,20191231
+WD20,1,1,1,1,1,0,0,20200101,20201231
+WE20,0,0,0,0,0,1,0,20200101,20201231
